@@ -1,0 +1,1 @@
+web: gunicorn allstore.wsgi --log-file -
