@@ -135,6 +135,6 @@ MEDIA_ROOT = os.path.join(BASE_DIR, "media")
 MEDIA_URL = "/media/"
 
 PAYPAL_TEST = True
-PAYPAL_USER_EMAIL = config("PAYPAL_USER_EMAIL")
+PAYPAL_USER_EMAIL = "sb-nntlf27846788@business.example.com"
 
-ADMIN_USER_EMAIL = config("ADMIN_USER_EMAIL")
+ADMIN_USER_EMAIL = "daniel@mail.com"
